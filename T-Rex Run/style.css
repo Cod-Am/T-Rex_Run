@@ -1,0 +1,18 @@
+.dino {
+    position: absolute;
+    bottom: 0px;
+    width: 60px;
+    height: 60px;
+    background-image: url('./img/dino.png');
+    background-size: cover; /* Optional: Adjust the background size as per your image */
+  }
+  
+  .obstacle {
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    bottom: 0px;
+    background-image: url('./img/cactus.jpeg');
+    background-size: cover; /* Optional: Adjust the background size as per your image */
+  }
+  
